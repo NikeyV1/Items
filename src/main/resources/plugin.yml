@@ -1,0 +1,4 @@
+name: Items
+version: '${project.version}'
+main: de.nikey.items.Items
+api-version: '1.20'
